@@ -8,14 +8,17 @@ This project focuses on building a Convolutional Neural Network (CNN) to classif
 **1.  Preprocessing**
 
 *  Perform channel normalization to standardize the image data for improved network performance.
+  
 **2.  Model Construction and Training**
 
 *  Build a CNN architecture optimized for detecting surface cracks.
 *  Train the network using the preprocessed dataset.
+  
 **3.  Performance Evaluation**
 
 *  Calculate performance metrics (e.g., accuracy, precision, recall, F1-score).
 *  Analyze the results to evaluate model effectiveness.
+
 **4.  Bonus Task**
 
 *  Apply data augmentation techniques (e.g., rotation, flipping, tilting) to improve the generalization and robustness of the model.
